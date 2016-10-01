@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidUpdate</string>
+    <string name="update_dialog_title">升级提示</string>
+    <string name="update_button_text">立即升级</string>
+    <string name="delayupdate_button_text">以后提醒我</string>
+
+    <string name="update_download_error">新版本下载失败，请检查网络</string>
+    <string name="update_download_success">新版本已经下载已完成</string>
+    <string name="update_download_downloading">新版本正在下载...</string>
+
+
+
+</resources>
