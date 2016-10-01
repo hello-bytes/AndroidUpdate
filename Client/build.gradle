@@ -15,10 +15,6 @@ buildscript {
 allprojects {
     repositories {
         jcenter()
-        def androidHome = System.getenv("ANDROID_HOME")
-        maven {
-            url "$androidHome/extras/android/m2repository/"
-        }
     }
 }
 
